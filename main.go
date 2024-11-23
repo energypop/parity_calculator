@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	// Taking binary blocks as input
 	var firstBlock string
 	var secondBlock string
 
